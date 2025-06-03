@@ -1,0 +1,6 @@
+Hướng dẫn đăng nhập:
+Truy cập đường link: http://127.0.0.1:8000/ttaAdmins/tta-login - Thay localhost:8000 thành host của bạn cho phù hợp
+Tài khoản đăng nhập mặc định là tienanhtran775@gmail.com
+Mật khẩu: 20122005@
+
+-- Em xin cảm ơn!
